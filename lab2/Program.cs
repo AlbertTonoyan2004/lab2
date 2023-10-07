@@ -1,4 +1,5 @@
 ﻿using System;
+
 /// <summary>
 /// задача 1
 /// </summary>
